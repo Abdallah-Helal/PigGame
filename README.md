@@ -6,7 +6,7 @@ Pig-game(ludo) is a classic board game played between friends and family. Play t
 **You Can See The `Tracker` Live On:** [Here](https://abdallah-helal.github.io/PigGame/)
 
 ## GAME RULES:
-
+![Rules](imgs/pig-game-flowchart.png)
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he wishes. Each result get added to his ROUND score
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
