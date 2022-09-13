@@ -3,7 +3,7 @@ Pig-game(ludo) is a classic board game played between friends and family. Play t
 
 ## Live Demo 🌐
 
-**You Can See The `Tracker` Live On:** [Here]https://6320c882dc53d10c7c1baa07--shimmering-salamander-32502b.netlify.app/)
+**You Can See The `Tracker` Live On:** ([Here]https://6320c882dc53d10c7c1baa07--shimmering-salamander-32502b.netlify.app/)
 
 ## GAME RULES:
 ![Rules](imgs/pig-game-flowchart.png)
