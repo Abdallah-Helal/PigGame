@@ -12,6 +12,9 @@ const diceEl = document.querySelector(".dice");
 const btnNew = document.querySelector(".btn--new");
 const btnRoll = document.querySelector(".btn--roll");
 const btnHold = document.querySelector(".btn--hold");
+const btnRules = document.querySelector(".params-rules");
+const btnClose = document.querySelector(".btn-close");
+const modal = document.querySelector(".modal");
 
 let scores, currentScore, activePlayer, playing;
 
@@ -93,5 +96,10 @@ btnHold.addEventListener("click", function () {
     }
   }
 });
+const displayRules = function () {
+  modal.classList.toggle("hidden");
+};
 
 btnNew.addEventListener("click", init);
+btnRules.addEventListener("click", displayRules);
+btnClose.addEventListener("click", displayRules);
